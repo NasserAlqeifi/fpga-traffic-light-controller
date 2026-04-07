@@ -1,9 +1,6 @@
 # FPGA Traffic Light Controller
 
 A fully functional smart traffic light control system for a 4-way intersection, implemented in VHDL and deployed on the Intel Cyclone IV E FPGA (EP4CE115F29C7) using Intel Quartus Prime 18.1. The system manages two axes of vehicle traffic, handles pedestrian crossing requests, and coordinates multiple Finite State Machines running in parallel on hardware.
-
-The project was completed as part of academic coursework at Hochschule Anhalt (Anhalt University of Applied Sciences) in 2024.
-
 ---
 
 ## Table of Contents
